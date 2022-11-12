@@ -1,0 +1,7 @@
+---
+name: DiscordToMCPE
+version: 0.0.1
+main: skyss0fly\DiscordToMCPE\Main
+api: 4.10.1
+src-namespace-prefix: skyss0fly\DiscordToMCPE
+...
